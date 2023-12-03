@@ -1,4 +1,4 @@
-<img src="rinciples.jpeg" width="800" height="600">
+<img src="Principles.jpeg" width="800" height="600">
 # Software Principles
 
 There are fundamental guidelines for designing, developing, and maintaining software systems, referred to as software development principles. In addition to the emphasis on modularity, abstraction, reusability, and maintainability, they emphasize systematic approaches to problem-solving, design, and development. Software development principles include:
